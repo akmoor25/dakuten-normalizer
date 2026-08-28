@@ -2,7 +2,7 @@
   "name": "dakuten-normalizer",
   "displayName": "Dakuten Normalizer",
   "description": "Normalize combining characters U+3099 and U+309A into NFC",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "akmoor25",
   "repository": {
     "type": "git",

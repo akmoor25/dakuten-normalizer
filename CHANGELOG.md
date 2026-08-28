@@ -2,6 +2,11 @@
 
 All notable changes to the "dakuten-normalizer" extension will be documented in this file.
 
+## [1.0.1] - 2026-08-29
+
+### Fixed
+- READMEのインストール手順を実際のMarketplace情報へ更新。
+
 ## [1.0.0] - 2026-08-29
 
 ### Added
