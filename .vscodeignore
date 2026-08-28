@@ -1,0 +1,13 @@
+.vscode/**
+.vscode-test/**
+out/**
+node_modules/**
+src/**
+.gitignore
+.yarn/**
+tsconfig.json
+vsc-extension-quickstart.md
+**/npm-debug.log
+**/yarn-error.log
+**/*.map
+**/*.ts
