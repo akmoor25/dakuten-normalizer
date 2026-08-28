@@ -21,7 +21,13 @@
 
 ## インストール方法
 
-(後日追記予定: VSIXファイルからのインストール手順、または Marketplace からのインストール手順)
+VSCode の拡張機能（Extensions）パネルを開き、`Dakuten Normalizer` で検索してインストールするか、以下のコマンドを実行してください。
+
+```bash
+ext install akmoor25.dakuten-normalizer
+```
+
+または、[Visual Studio Marketplace のページ](https://marketplace.visualstudio.com/items?itemName=akmoor25.dakuten-normalizer) から直接インストールすることも可能です。
 
 ## 開発ビルド
 
